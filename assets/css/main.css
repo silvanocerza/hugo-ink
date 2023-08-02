@@ -484,3 +484,7 @@ ul {
         line-height: 1.4em;
     }
 }
+
+.hidden {
+    display: none;
+}
